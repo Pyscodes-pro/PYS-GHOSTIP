@@ -1,7 +1,7 @@
 ![2025-03-06_11-33](https://github.com/user-attachments/assets/34c28d56-0ab9-481b-9cc8-1248ad1f03da)
 
 ---
-🌍 [English](README.md) | 🇮🇩 [Bahasa Indonesia](readme_indonesia.md)
+🌍 [English](README.md) | 🇮🇩 [Bahasa Indonesia](README_indoneisa.md)
 # PysGhostIP - OSINT IP Scanner  
 
 PysGhostIP is a Python-based OSINT (Open Source Intelligence) tool designed for investigation, IP analysis, reconnaissance, and target information gathering. This tool provides various techniques to help you collect valuable information about a specific target.  
