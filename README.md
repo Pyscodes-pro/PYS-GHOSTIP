@@ -22,12 +22,12 @@ This tool includes the following features:
 
 Follow the steps below to install and run this tool.  
 
-### 1️⃣ Prerequisites  
+### Prerequisites  
 
 - **Python 3:** Ensure Python 3 is installed. You can download it from the [Python website](https://www.python.org/downloads/).  
 - **pip:** `pip` is the package manager for Python and is usually included.  
 
-### 2️⃣ Clone Repository (Optional)  
+###  Clone Repository (Optional)  
 
 If you are cloning the repository from GitHub, run the following command:  
 
@@ -36,7 +36,7 @@ git clone https://github.com/pyscodes/PysGhostIP.git
 cd PysGhostIP
 ```
 
-### 3️⃣ Create a Virtual Environment (Recommended)  
+###  Create a Virtual Environment (Recommended)  
 
 Creating a virtual environment is recommended to isolate project dependencies:  
 
@@ -58,21 +58,14 @@ Activate the virtual environment:
   .\venv\Scripts\activate
   ```
 
-### 4️⃣ Install Dependencies  
+###  Install Dependencies  
 
 Use `pip` to install the required dependencies:  
 
 ```bash
 pip install -r requirements.txt
 ```
-
-### 5️⃣ Configure SecurityTrails API Key  
-
-1. Create an account on **SecurityTrails** and obtain an API key.  
-2. Open `pysghostip.py` in a text editor.  
-3. Locate the line defining the `api_key` variable and replace `"YOUR_API_KEY"` with your actual API key.  
-
-### 6️⃣ Run the Tool  
+###  Run the Tool  
 
 Once installation is complete, run the tool using:  
 
