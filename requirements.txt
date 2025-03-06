@@ -1,0 +1,8 @@
+argparse
+requests
+dnspython
+python-whois
+python-nmap
+termcolor
+pyfiglet
+shutil
